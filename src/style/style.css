@@ -203,7 +203,7 @@ main {
 
 .wallpaper {
     width: 100%;
-    background-image: url('/img/starguardian.jpg');
+    background-image: url('/src/img/starguardian.jpg');
     background-size: cover;
     background-position: center;
     flex: 1;
